@@ -1,0 +1,11 @@
+[package]
+name = "seir"
+version = "0.1.0"
+authors = ["Robert Smith"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3"
+exitfailure = "0.5"
