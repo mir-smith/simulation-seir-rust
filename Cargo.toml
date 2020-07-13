@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 structopt = "0.3"
 exitfailure = "0.5"
+rand = "0.7"
